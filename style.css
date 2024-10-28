@@ -2,15 +2,25 @@ p{
     background-color: aqua;
     color: blueviolet;
     display: inline-flex;
+    align-items: center;
+    margin-left: 300px;
 }
 .heading-1{color: yellowgreen;
-    background-color: aquamarine;       
-    
+    background-color: aquamarine;  
+  width: 200px;
+  height: 40px;
 }
 .head-2{
     color: blue;
-    background-color: aquamarine;       
-body{
-    background-color: black;
-    color: white;
-}
+    background-color: aquamarine;
+    width: 200px;
+    height: 60px;
+   margin-left: 300px;
+}      
+    body{
+        background-color: black;
+        color: white;
+        display:inline-flex;
+        justify-content: space-between;
+       
+    }
