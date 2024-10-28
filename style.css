@@ -4,14 +4,19 @@ p{
     display:inline-flex;
     justify-content: space-between;
     margin-left: 500px;
+    width: 30px;
+    cursor: pointer;
+    border-radius: 15px;
 }
 .heading-1{color: yellowgreen;
     background-color: aquamarine;  
   width: 200px;
   height: 40px;
   display:flex;
-  justify-content: space-between;
+  justify-content: center;
   margin-left: 500px;
+  border-radius: 23px;
+  cursor: pointer;
 
 }
 .head-2{
@@ -22,6 +27,8 @@ p{
    margin-left: 500px;       
     display:flex;
    justify-content: space-between;
+   border-radius: 15px;
+
 }      
     body{
         background-color: black;
