@@ -4,8 +4,10 @@ p{
     display:inline-flex;
     justify-content: space-between;
     margin-left: 500px;
-    width: 30px;
+    width: 200px;
+    height: 40px;
     cursor: pointer;
+    font-size: 25px;
     
 }
 .heading-1{color: yellowgreen;
